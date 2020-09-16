@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "ImportadorContasAPagar": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
