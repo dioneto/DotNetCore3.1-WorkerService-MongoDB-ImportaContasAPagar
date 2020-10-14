@@ -35,6 +35,7 @@ namespace ImportadorContasAPagar
                     try
                     {
                         var contas = _fileImport.LerArquivo();
+                        var teste;
 
                         foreach (var item in contas)
                         {
